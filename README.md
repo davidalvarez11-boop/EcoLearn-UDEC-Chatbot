@@ -135,5 +135,5 @@ git push -u origin main
 
 ## Entregables
 
-1. Link del repositorio GitHub: **[Agregar URL del repositorio aquí]**
+1. Link del repositorio GitHub: **https://github.com/davidalvarez11-boop/EcoLearn-UDEC-Chatbot**
 2. README técnico: este documento.
